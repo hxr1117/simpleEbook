@@ -1,5 +1,7 @@
 # SimpleEbook
 
+![1](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghb9vtlv6zg308w0ftqv7.gif)
+
 ### 实现功能
 
 1. 通过epubjs渲染EPUB电子书内容、标题栏和菜单栏，支持左右点击实现翻页。
